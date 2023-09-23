@@ -1,0 +1,1 @@
+[h: rollDO("2d20+5:20:3,1d6+4","plastic red,plastic blue","2")]

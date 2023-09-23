@@ -1,0 +1,14 @@
+{
+  "name": "DiceOverlay",
+  "version": "3.7.5.36",
+  "website": "",
+  "gitUrl": "",
+  "authors": ["jmr3366"],
+  "license": "",
+  "namespace": "org.jmr.diceoverlay",
+  "description": "",
+  "shortDescription": "",
+  "allowsUriAccess": false,
+  "licenseFile": "",
+  "readMeFile": ""
+}

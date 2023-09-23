@@ -1,0 +1,6 @@
+{
+  "events": [{
+    "name": "onInit",
+    "mts": "onCampaignLoad"
+  }]
+}

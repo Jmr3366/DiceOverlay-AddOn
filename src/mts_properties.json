@@ -1,0 +1,51 @@
+{
+  "properties": [{
+    "filename": "public/Dice Main.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/RollShow.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/MinDice.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/Config Dice.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/Example UDF.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/AddSubDie.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/Reset Dice Settings.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/Info.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/DestDice.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/Delay.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/Drop.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/RollDice.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/Close Dice Overlays.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/onCampaignLoad.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/ClearDice.mts",
+    "autoExecute": true
+  }, {
+    "filename": "public/rollDO.mts",
+    "autoExecute": true
+  }]
+}

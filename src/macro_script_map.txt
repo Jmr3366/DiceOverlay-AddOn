@@ -1,0 +1,16 @@
+macro_8.mts => Dice Main
+macro_4.mts => RollShow
+macro_6.mts => MinDice
+macro_9.mts => Config Dice
+macro_14.mts => Example UDF
+macro_1.mts => AddSubDie
+macro_10.mts => Reset Dice Settings
+macro_2.mts => Info
+macro_12.mts => DestDice
+macro_13.mts => Delay
+macro_7.mts => Drop
+macro_3.mts => RollDice
+macro_11.mts => Close Dice Overlays
+onCampaignLoad.mts => onCampaignLoad
+macro_0.mts => ClearDice
+macro_5.mts => rollDO
