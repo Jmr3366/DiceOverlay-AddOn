@@ -17,8 +17,8 @@
 [h: broadcast(tParse)]
 
 
-[h: tTimeOne = json.get(tParse,"time")]
-[h: tTimeTwo = json.get(tParse,"time2")]
+[h: tTimeOne = number(json.get(tParse,"time"))]
+[h: tTimeTwo = number(json.get(tParse,"time2"))]
 [h: tTimeNow = json.get(getInfo("server"),"timeInMs")]
 
 [h: mTestA = (tTimeOne - tTimeTwo)]
